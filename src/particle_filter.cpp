@@ -14,6 +14,7 @@
 #include <sstream>
 #include <string>
 #include <iterator>
+#include <cassert>
 
 #include "particle_filter.h"
 
