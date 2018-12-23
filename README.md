@@ -8,6 +8,9 @@ My project include only a single file:
 
 * ```particle_filter.cpp``` particle filter implementation
 
+[//]: # (Image References)
+[img1]: ./carnd_particle_filter.png
+
 ## Running the Code
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
@@ -39,3 +42,5 @@ You can find the inputs to the particle filter in the `data` directory.
 3. landmark id
 
 > * Map data provided by 3D Mapping Solutions GmbH.
+
+![Kidnapped Vehicle Project][img1]
